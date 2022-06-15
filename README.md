@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 ## How to Contribute
 ## Deployments
 nasdf
+
+CopyRight message
+
