@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 ## How to Contribute
+Please request FORK
+
 ## Deployments
 nasdf
 
