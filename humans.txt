@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Akash Lohani
 
 # TECHNOLOGY COLOPHON
 
